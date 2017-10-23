@@ -36,7 +36,7 @@ function displayPics(){
   }
   console.log(rando);
   // TODO: In a sentence or two, explain why the previous line of code threw an error when we changed the variable declaration from `var to `let`.
-  // PUT YOUR RESPONSE IN THIS COM "The variable 'rando' quit working when changed from a 'var' to a 'let' because variables defined using 'let' are only scoped inside the code block they are defined in." MENT
+  // PUT YOUR RESPONSE IN THIS COMMENT
   console.log(viewed)
 
   // To the DOM and beyond!
